@@ -3,8 +3,7 @@ Write a program that should load 80 data from the keyboard and place them in mem
 
 
 
-
-	![Screenshot (1)](  https://github.com/TrajceStudent/Zadaca-br.1_8086/blob/main/7.png)
+![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-br.1_8086/blob/main/7.png)
 
 
 				
